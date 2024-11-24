@@ -14,6 +14,9 @@ User Profiles: View and update user details entered during signup.
 Tech Stack
 
 Frontend: Angular 18, Angular Material (Cyan/Orange Theme)
+
 Backend: Spring Boot
+
 Database: MySQL
+
 Other Tools: Hibernate, JDBC
